@@ -1,0 +1,19 @@
+body {
+    background-color: silver;
+}
+
+p {
+    font-size: 6mm;
+    color: blue;
+}
+
+p:lang(pl) {
+    font-size: 8.25mm;
+    color: yellow;
+}
+
+p:lang(en) {
+    font-size: 12.25mm;
+    color: gold;
+}
+/*Lievichev Kyrylo*/
